@@ -2,6 +2,10 @@
   "name": "simpleproject",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "12.3.0",
+    "npm": "6.9.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "nodemon backend/server.js",
